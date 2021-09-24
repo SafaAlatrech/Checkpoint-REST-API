@@ -47,4 +47,4 @@ Req.params && req.query : https://coursework.vschool.io/express-params-and-query
 
 Mongoose : https://mongoosejs.com/ 
 
-Rest api : https://www.youtube.com/watch?v=SLwpqD8n3d0
+Rest api : https://www.youtube.com/watch?v=SLwpqD8n3d0 
