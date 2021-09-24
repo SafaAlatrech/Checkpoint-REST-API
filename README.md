@@ -39,8 +39,12 @@ NB : in each callback function you will use mongoose methods to manipulate your 
      11.  Use postman to test each route.
                  
   Useful Links : 
-.env : https://www.npmjs.com/package/dotenv
+.env : https://www.npmjs.com/package/dotenv 
+
 Express js : https://expressjs.com/
+
 Req.params && req.query : https://coursework.vschool.io/express-params-and-query/
-Mongoose : https://mongoosejs.com/
+
+Mongoose : https://mongoosejs.com/ 
+
 Rest api : https://www.youtube.com/watch?v=SLwpqD8n3d0
